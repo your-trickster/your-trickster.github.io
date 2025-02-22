@@ -1,4 +1,4 @@
-### Functions
+## Functions
 
 Sensation — concrete logical reasoning. Sense of aesthetics. Control. Limits.
 
@@ -8,9 +8,9 @@ Thinking — rule-based value judgment.
 
 Feeling — harmony-concerned value judgment.
 
-### Function-attitudes
+## Function-attitudes
 
-Perceiving function-attitudes:
+### Perceiving function-attitudes:
 
 Introverted sensation (Si) — self-control (inner limits), consistency, bodily senses and understanding of physical comfort, familiarity. Deductive reasoning. Steady.
 
@@ -20,7 +20,7 @@ Introverted intuition (Ni) — vision (motivations and goals, desires, dreams, f
 
 Extraverted intuition (Ne) — concepts, refinement, probabilities, understanding people. Abductive reasoning. Anxious.
 
-Judging function-attitudes (“concerned with”):
+### Judging function-attitudes (“concerned with”):
 
 Extraverted thinking (Te) — authority, ethics (“what’s right” objectively), tradition, education, efficiency (applying the least effort possible), opinions and beliefs.
 
@@ -30,16 +30,46 @@ Extraverted feeling (Fe) — external harmony (including, but not limited to, gr
 
 Introverted feeling (Fi) — internal harmony (mental and physical comfort — “what brings me serenity”), natural boundary-setting.
 
-### Dichotomies
+## Dichotomies
 
-Judgment (rational) vs perception (irrational):
+### Judgment (rational) vs Perception (irrational):
 
-- judgment — the process of applying a value to information. Judging function-attitudes have nothing to do with “understanding” things, they’re merely a filter. Thinking and feeling.
+- judgment — the process of applying a value to information. Judging function-attitudes have nothing to do with “understanding” things, they’re merely a filter. Thinking and feeling;
 - perception — intake and production of information. Sensation and intuition.
  
-Introverted vs extraverted (see: extraversion vs introversion).
+Introverted vs extraverted (see: [essentials](https://your-trickster.github.io/essentials)).
 
-Revision (static) vs conduction (dynamic):
+### Revision (static) vs Conduction (dynamic):
 
-- revision — extraverted perception (Pe) and introverted judgment (Ji). Wary;
-- conduction — introverted perception (Pi) and extraverted judgment (Je). Brash.
+- revision — extraverted perception (Pe) and introverted judgment (Ji);
+- conduction — introverted perception (Pi) and extraverted judgment (Je).
+
+## Tetrachotomies
+
+### Axes
+
+**Axis** — a pair of aspects of different functions that are both judging or perceiving, but differ in extraversion vs introversion and revision vs conduction. Both function-attitudes of an axis are either ego-syntonic or ego-dystonic. They are inseparable and work in tandem.
+
+Judgment and perception are not equivalent. Judgment cannot without perception, but perception can exist without judgment (though it would be not too useful). So a judgment axis' values' resolution depends on the perceiving axis it's paired (is ego-syntonic or ego-dystonic together) with.
+
+- NeSi — adaptation. Controlling the internal environment to adapt to the possibilities of the external environment. Conforms to the judgment values;
+- NiSe — change. Controlling the external environment to adapt it to the possibilities of oneself. Rebels against the judgment values.
+
+- TiFe — social. What’s right to myself and how it relates to the external environment;
+- TeFi — societal. What’s right objectively and how it relates to my inner world.
+
+### Orbits
+
+"**Orbit**" is a way to refer to a pair of aspects of the same function.
+
+### Poles
+
+**Pole** — a pair of function-attitudes of the same energetic (one side of judgment vs perception, introversion vs extraversion and revision vs conduction).
+
+- Ji — compass. Subjective values;
+
+- Je — articulation. Objective values;
+
+- Pe — exploration. Tuned to what’s going on in the outer world. Establishes relations between objects (which for, example, may manifest as concrete analogies for Se and metaphors for Ne);
+
+- Pi — channel. Tuned to what’s going on in the inner world.
