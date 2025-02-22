@@ -3,7 +3,9 @@
 button.w3-bar-item.w3-button.w3-large.w3-hide-large,
 footer p small,
 .element::-webkit-scrollbar,
-#git-wiki-sidebar p {
+#git-wiki-sidebar p,
+.page-list-title,
+.page-list {
     display: none;
 }
 
