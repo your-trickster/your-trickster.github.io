@@ -22,3 +22,7 @@ html {
     font-size: 1.07vw;
     text-align: center;
 }
+
+#git-wiki-mobile-header {
+    z-index: 99;
+}
