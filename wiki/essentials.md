@@ -1,15 +1,17 @@
-Libido — an abstract concept of psychic energy.
+### Essential terms
 
-Attitude — direction of libido’s flow. 
+**Libido** — an abstract concept of psychic energy.
 
-Introversion — the attitude that focuses on the subject.
+**Attitude** — direction of libido’s flow. 
 
-Extraversion — the attitude that focuses on the object.
+**Introversion** — the attitude that focuses on the subject.
 
-[Function](https://your-trickster.github.io/functions) — a group of mechanisms of the brain playing a role in cognition.
+**Extraversion** — the attitude that focuses on the object.
 
-Function-attitude — an aspect of a function corresponding to the extraverted or the introverted attitude.
+[**Function**](https://your-trickster.github.io/functions) — a group of mechanisms of the brain playing a role in cognition.
 
-Archetype — an evolutionary aspect of the psyche that serves as a placeholder for information.
+**Function-attitude** — an aspect of a function corresponding to the extraverted or the introverted attitude.
 
-Psychological type — a description of function-attitudinal roles, representing the brain’s survival strategy, chosen presumably in the period between infancy and puberty. It’s not a personality (nor something changeable overall) and not a measure of intellect.
+**Archetype** — an evolutionary aspect of the psyche that serves as a placeholder for information.
+
+**Psychological type** — a description of function-attitudinal roles, representing the brain’s survival strategy, chosen presumably in the period between infancy and puberty. It’s not a personality (nor something changeable overall) and not a measure of intellect.
