@@ -18,3 +18,8 @@ html {
     scrollbar-width: none;
     -ms-overflow-style: none;
 }
+
+.w3-hide-medium.w3-hide-small h1 {
+    font-size: 1.07vw;
+    text-align: center;
+}
