@@ -22,13 +22,13 @@ Extraverted intuition (Ne) — concepts, refinement, probabilities, understandin
 
 ### Judging function-attitudes (“concerned with”):
 
-Extraverted thinking (Te) — authority, ethics (“what’s right” objectively), tradition, education, efficiency (applying the least effort possible), opinions and beliefs.
+Extraverted thinking (Te) — authority, ethics (“what’s right” objectively), tradition, education, efficiency (applying the least effort possible), opinions and beliefs. Cold.
 
-Introverted thinking (Ti) — clarity (having a coherent understanding), morals (“what’s right” subjectively).
+Introverted thinking (Ti) — clarity (having a coherent understanding), morals (“what’s right” subjectively). Rough.
 
-Extraverted feeling (Fe) — external harmony (including, but not limited to, group harmony), equity and justice.
+Extraverted feeling (Fe) — external harmony (including, but not limited to, group harmony), equity and justice. Warm.
 
-Introverted feeling (Fi) — internal harmony (mental and physical comfort — “what brings me serenity”), natural boundary-setting.
+Introverted feeling (Fi) — internal harmony (mental and physical comfort — “what brings me serenity”), natural boundary-setting. Soft.
 
 ## Dichotomies
 
