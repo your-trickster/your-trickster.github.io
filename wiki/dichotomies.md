@@ -4,7 +4,35 @@ A dichotomy is called symmetric if it's directly derivable from the original fou
 
 The rest of dichotomies are the asymmetric ones. Some of them were introduced by David Keirsey (due to a mistake, perhaps), but other authors, primarily Linda Berens, helped make sense of them.
 
-## Symmetric dichotomies (3/15)
+## Symmetric dichotomies (4/15)
+
+### Introversion vs Extraversion
+
+- introverted types have subjective exterior roles. Drawing libido to the subject, they in a normal state more so respond to the object, which is especially notable in communication with extraverts;
+- extraverted types have objective exterior roles. Drawing libido to the object, they oftentimes more so engage witg it, which is especially notable in communication with introverts.
+
+It is a Jungian dichotomy.
+
+### Intuition vs Sensation
+
+- intuitive types have active intuition. Because of that they focus more on potentials rather than limits;
+- sensing types have active sensation. Because of that they focus more on limits rather than potentials.
+
+It is a Jungian dichotomy.
+
+### Thinking vs Feeling
+
+- thinking types have active thinking. Because of that they may tend to pose as more serious or logical, but it doesn't mean they are;
+- feeling types have active feeling. Because of that they may tend to give things a living quality, but it doesn't make them actually more emotional or illogival.
+
+It is a Jungian dichotomy.
+
+### Judgment (rational) vs Perception (irrational)
+
+- judging type have a judging matrix and a perceiving core. Neurobiologically, they have a little higher activity of the left side of the prefrontal cortex. They are more certain about their conclusions;
+- perceiving types have a perceiving matrix and a judging core. Neurobiologically, they have a little higher activity of the right side of the prefrontal cortex. They are more uncertain about their conclusions.
+
+It is a Jungian dichotomy.
 
 ### Judicious vs Decisive:
 
@@ -22,6 +50,11 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 
 - rationale-oriented types have NeSi paired with TiFe and NiSe paired with TeFi. From the Ne + Ji perspective, rationale types refine their clarity (Ne + Ti), in which they strive to be consistent (Si + Ti), having to acknowledge reality. Rationale types are more so progressive, as they do not refine traditions (Te). Rationale types pursue equity (Ne + Fe) and oppose authority (Te + Se). Rationale types are more so empathetic (Ne understands people, Fe focuses on others' feelings). They focus more on their unknowns than their knowns.
 - harmony-oriented types have NeSi paired with TeFi and NiSe paired with TiFe. From the Ne + Ji perspective, harmony types refine their comfort (Ne + Fi) instead of clarity (that is not to say they can’t possibly strive to know something). Harmony types are more so conservative, as they upkeep traditions (Te + Si). They don’t oppose authority as a concept (Te + Si), either complying or seeking to obtain it. Harmony types are more so sympathetic (Ne understands people, Fi focuses on their own feelings). They focus more on their knowns than their unknowns.
+
+### Evolution vs Involution
+
+- evolutionary types are certain about their knowns and uncertain about their unknowns, so their progress ends up flowing naturally and directly, they themselves being emerged in the process {passion and happiness ponenda};
+- involutionary types are certain about their unknowns and uncertain about their knowns, so their progress has a warped, inverse direction, which may result in things like omitting details or jumping between hypotheses {legacy and emotion ponenda}.
 
 ## Asymmetric dichotomies
 
