@@ -6,6 +6,10 @@ button.w3-bar-item.w3-button.w3-large.w3-hide-large {
     display: none;
 }
 
+html {
+    overflow: hidden;
+}
+
 .element::-webkit-scrollbar {
     display: none;
 }
