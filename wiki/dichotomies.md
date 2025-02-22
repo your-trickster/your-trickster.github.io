@@ -4,7 +4,7 @@ A dichotomy is called symmetric if it's directly derivable from the original fou
 
 The rest of dichotomies are the asymmetric ones. Some of them were introduced by David Keirsey (due to a mistake, perhaps), but other authors, primarily Linda Berens, helped make sense of them.
 
-## Symmetric dichotomies (4/15)
+## Symmetric dichotomies (8/15)
 
 ### Introversion vs Extraversion
 
@@ -34,17 +34,17 @@ It is a Jungian dichotomy.
 
 It is a Jungian dichotomy.
 
-### Judicious vs Decisive:
+### Judicious vs Decisive
 
 - judicious types have ego-syntonic NeSi. They’re characterized by indecisiveness, more careful planning, greater enjoyment of physical comfort regardless of whether they prioritize it (Fi). More connected to nature, often conflict-avoided, more collaborative;
 - decisive types have ego-syntonic NiSe. They’re characterized, as the name suggests, by decisiveness, as well as greater desire to plan things overall and to accomplish a specific vision. They’re more driven by material accumulation and power.
 
-### Social (moral) vs Societal (ethical):
+### Social (moral) vs Societal (ethical)
 
 - social types have ego-syntonic TiFe. They’re more focused on the social and morality;
 - societal types have ego-syntonic TeFi. They’re more focused on the societal and ethicality.
 
-### Rationale (democratic) vs Harmony (aristocratic):
+### Rationale (democratic) vs Harmony (aristocratic)
 
 The reason this dichotomy exists is the inequaility of judgment and perception described on the [functions](https://your-trickster.github.io/functions) page.
 
@@ -58,7 +58,7 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 
 ## Asymmetric dichotomies
 
-### Informative (masculine) vs Directive (feminine):
+### Informative (masculine) vs Directive (feminine)
 
 - informative types are more prone to sharing information, insinuating and disclosing various kinds of details {Ne ego and SF club};
 - directive types are more prone to being dominant and commanding and ordering people around {Ni ego and ST club}.
