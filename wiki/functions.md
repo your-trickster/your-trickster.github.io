@@ -66,10 +66,10 @@ Judgment and perception are not equivalent. Judgment cannot without perception, 
 
 **Pole** — a pair of function-attitudes of the same energetic (one side of judgment vs perception, introversion vs extraversion and revision vs conduction).
 
-- Ji — compass. Subjective values;
+- Ji — compass. Subjective values, reactively rigidity;
 
-- Je — articulation. Objective values;
+- Je — articulation. Objective values, proactive rigidity;
 
-- Pe — exploration. Tuned to what’s going on in the outer world. Establishes relations between objects (which for, example, may manifest as concrete analogies for Se and metaphors for Ne);
+- Pe — exploration. Tuned to what’s going on in the outer world, seeks information outside. Establishes relations between objects (which for, example, may manifest as concrete analogies for Se and metaphors for Ne);
 
-- Pi — channel. Tuned to what’s going on in the inner world.
+- Pi — channel. Tuned to what’s going on in the inner world, seeks information within.
