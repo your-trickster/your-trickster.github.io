@@ -1,7 +1,7 @@
-.git-wiki-tools {
+.git-wiki-tools, .git-wiki-search {
     display: none;
 }
 
-.git-wiki-search {
-    display: none;
+.a {
+    color: #7300e6;
 }
