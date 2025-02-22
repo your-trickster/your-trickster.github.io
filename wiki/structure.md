@@ -1,4 +1,4 @@
-## Function-attitudinal roles
+### Function-attitudinal roles
 
 Hero — the conscious identity. Axial opposite of the soul, orbital opposite of the nemesis, polar opposite of the demon.
 
@@ -18,7 +18,7 @@ Demon — a point of neglect. Axial opposite of the nemesis, orbital opposite of
 
 Usually non-capitalized when referring to the positions.
 
-## Positional dichotomies
+### Positional dichotomies
 
 Ego-syntonic vs ego-dystonic:
 
@@ -50,7 +50,7 @@ Mental vs vital:
 - mental — concurring for consciousness (“I want to be like”); hero, parent, demon, trickster;
 - vital — subdued by the mental (“I don’t want to be like”); nemesis, senex, soul, child.
 
-## Positional tetrachotomies
+### Positional tetrachotomies
 
 The blocks:
 
@@ -59,7 +59,7 @@ The blocks:
 - id block — ego-dystonic, active, vital — nemesis-senex;
 - superego block — ego-dystonic, passive, mental — demon-trickster.
 
-## Four main archetypes
+### Four main archetypes
 
 Ego — the main lens by the means of which one sees the world. Based around the ego block. “conscious”
 
