@@ -16,7 +16,7 @@ Trickster — a point of ignorance and pain. Axial opposite of the senex, orbita
 
 Demon — a point of neglect. Axial opposite of the nemesis, orbital opposite of the soul, polar opposite of the hero.
 
-Usually non-capitalized when referring to the positions.
+The terminology was introduced by John Beebe (albeit is slightly altered). Refers to which role is the primary of which archetype. Usually non-capitalized when referring to the positions.
 
 ## Positional dichotomies
 
