@@ -48,7 +48,7 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 ### Mental vs vital:
 
 - mental — concurring for consciousness (“I want to be like”); hero, parent, demon, trickster;
-- vital — subdued by the mental (“I don’t want to be like”); nemesis, senex, soul, child.
+- vital — subdued by the mental (“I have no desire to be like”); nemesis, senex, soul, child.
 
 ## Positional tetrachotomies
 
