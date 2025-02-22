@@ -1,4 +1,4 @@
-### Function-attitudinal roles
+## Function-attitudinal roles
 
 Hero — the conscious identity. Axial opposite of the soul, orbital opposite of the nemesis, polar opposite of the demon.
 
@@ -18,48 +18,48 @@ Demon — a point of neglect. Axial opposite of the nemesis, orbital opposite of
 
 Usually non-capitalized when referring to the positions.
 
-### Positional dichotomies
+## Positional dichotomies
 
-Ego-syntonic vs ego-dystonic:
+### Ego-syntonic vs ego-dystonic:
 
 - ego-syntonic — complimentary to the Ego’s values (“I like”, “I value”); hero, parent, child, soul;
 - ego-dystonic — adversary to the Ego’s values (“I dislike”, “I devalue”); nemesis, senex, trickster, demon.
 
-Matrix (spine, accepting) vs core (hands, producing):
+### Matrix (spine, accepting) vs core (hands, producing):
 
 - matrix — taken seriously; hero and soul (as well as nemesis and demon);
 - core — excuse for the matrix; parent and child (as well as senex and trickster).
 
-Active vs passive:
+### Active vs passive:
 
 - active — paid attention to as an area of activity; hero/nemesis and parent/senex;
 - passive — not paid attention to as an area of activity; soul/demon, child/trickster.
 
-Optimistic (inert) vs pessimistic (contact):
+### Optimistic (inert) vs pessimistic (contact):
 
 - optimistic — hero/nemesis and child/soul orbits. Unbalanced excitation-inhibition. Careless use;
 - pessimistic — parent/senex and soul/demon. Balanced excitation-inhibition. Careful use.
 
-Exterior vs interior:
+### Exterior vs interior:
 
 - exterior — in line with the hero’s attitude; demonstrated to the outer world; hero, child, senex, demon;
 - interior — not in line with the hero’s attitude; hidden from the outer world; parent, soul, nemesis, trickster.
 
-Mental vs vital:
+### Mental vs vital:
 
 - mental — concurring for consciousness (“I want to be like”); hero, parent, demon, trickster;
 - vital — subdued by the mental (“I don’t want to be like”); nemesis, senex, soul, child.
 
-### Positional tetrachotomies
+## Positional tetrachotomies
 
-The blocks:
+### The blocks:
 
 - ego block — ego-syntonic, active, mental — hero-parent;
 - superid block — ego-syntonic, passive, vital — soul-child;
 - id block — ego-dystonic, active, vital — nemesis-senex;
 - superego block — ego-dystonic, passive, mental — demon-trickster.
 
-### Four main archetypes
+## Four main archetypes
 
 Ego — the main lens by the means of which one sees the world. Based around the ego block. “conscious”
 
