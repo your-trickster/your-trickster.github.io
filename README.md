@@ -1,6 +1,7 @@
 ! WORK IN PROGRESS !
 
-Pages:
+### Theory
 - [Essentials](https://your-trickster.github.io/essentials)
 - [Functions and their aspects](https://your-trickster.github.io/functions)
 - [Types' structure](https://your-trickster.github.io/structure)
+- [Type dichotomies](https://your-trickster.github.io/dichotomies)
