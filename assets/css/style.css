@@ -1,3 +1,7 @@
-.git-wiki-tools, .git-wiki-search {
+.git-wiki-tools {
+    display: none;
+}
+
+.git-wiki-search {
     display: none;
 }
