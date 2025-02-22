@@ -12,23 +12,23 @@
 
 ### Perceiving function-attitudes:
 
-Introverted sensation (Si) — self-control (inner limits), consistency, bodily senses and understanding of physical comfort, familiarity. Deductive reasoning. Steady.
+**Introverted sensation (Si)** — self-control (inner limits), consistency, bodily senses and understanding of physical comfort, familiarity. Deductive reasoning. Steady.
 
-Extraverted sensation (Se) — external control (outer limits), obtainment, tools and resources, actions, application of physical force. Analogical reasoning. Forceful.
+**Extraverted sensation (Se)** — external control (outer limits), obtainment, tools and resources, actions, application of physical force. Analogical reasoning. Forceful.
 
-Introverted intuition (Ni) — vision (motivations and goals, desires, dreams, fantasies), potentials for oneself. Inductive reasoning. Vain.
+**Introverted intuition (Ni)** — vision (motivations and goals, desires, dreams, fantasies), potentials for oneself. Inductive reasoning. Vain.
 
-Extraverted intuition (Ne) — concepts, refinement, probabilities, understanding people. Abductive reasoning. Anxious.
+**Extraverted intuition (Ne)** — concepts, refinement, probabilities, understanding people. Abductive reasoning. Anxious.
 
 ### Judging function-attitudes (“concerned with”):
 
-Extraverted thinking (Te) — authority, ethics (“what’s right” objectively), tradition, education, efficiency (applying the least effort possible, preserving resources), opinions and beliefs. Cold.
+**Extraverted thinking (Te)** — authority, ethics (“what’s right” objectively), tradition, education, efficiency (applying the least effort possible, preserving resources), opinions and beliefs. Cold.
 
-Introverted thinking (Ti) — clarity (having a coherent understanding), morals (“what’s right” subjectively). Rough.
+**Introverted thinking (Ti)** — clarity (having a coherent understanding), morals (“what’s right” subjectively). Rough.
 
-Extraverted feeling (Fe) — external harmony (including, but not limited to, group harmony), equity and justice. Warm.
+**Extraverted feeling (Fe)** — external harmony (including, but not limited to, group harmony), equity and justice. Warm.
 
-Introverted feeling (Fi) — internal harmony (mental and physical comfort — “what brings me serenity”), natural boundary-setting. Soft.
+**Introverted feeling (Fi)** — internal harmony (mental and physical comfort — “what brings me serenity”), natural boundary-setting. Soft.
 
 ## Dichotomies
 
