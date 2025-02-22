@@ -6,6 +6,11 @@ button.w3-bar-item.w3-button.w3-large.w3-hide-large {
     display: none;
 }
 
-.a {
-    color: #7300e6;
+.element::-webkit-scrollbar {
+    display: none;
+}
+
+.element {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
 }
