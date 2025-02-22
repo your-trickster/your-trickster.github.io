@@ -2,6 +2,10 @@
     display: none;
 }
 
+button.w3-bar-item.w3-button.w3-large.w3-hide-large {
+    display: none;
+}
+
 .a {
     color: #7300e6;
 }
