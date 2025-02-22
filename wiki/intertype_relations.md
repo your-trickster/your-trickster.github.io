@@ -5,7 +5,7 @@
 Naming (in terms of how the other party’s ego block maps onto your own roles) is as follows:
 
 - Identity — hero-parent (relation with your Ego);
-- Duality — soul-child (relation with your Anima). Note: generally the most preferable of relations;
+- Duality — soul-child (relation with your Anima);
 - Contrary — nemesis-senex (relation with your Shadow);
 - Enigma — demon-trickster (relation with your Persona);
 - Mirror — parent-hero;
