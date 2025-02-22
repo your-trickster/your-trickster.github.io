@@ -63,7 +63,7 @@ Dichotomies:
 
 - [informativeness vs directiveness](https://your-trickster.github.io/dichotomies#informative-masculine-vs-directive-feminine);
 - [introversion vs extraversion](https://your-trickster.github.io/dichotomies#introversion-vs-extraversion);
-- [progress vs outcome](https://your-trickster.github.io/dichotomies#introversion-vs-extraversion).
+- [progress vs outcome](https://your-trickster.github.io/dichotomies#progress-vs-outcome).
 
 Subdivisions:
 
