@@ -1,12 +1,12 @@
 ## Functions
 
-Sensation — concrete logical reasoning. Sense of aesthetics. Control. Limits.
+**Sensation** — concrete logical reasoning. Sense of aesthetics. Control. Limits, perceiving objects as discrete.
 
-Intuition — logical reasoning with absent particulars. Potentials.
+**Intuition** — logical reasoning with absent particulars. Potentials, perceiving objects as continous, with indefinite borders.
 
-Thinking — rule-based value judgment.
+**Thinking** — rule-based value judgment.
 
-Feeling — harmony-concerned value judgment.
+**Feeling** — harmony-concerned value judgment.
 
 ## Function-attitudes
 
@@ -22,7 +22,7 @@ Extraverted intuition (Ne) — concepts, refinement, probabilities, understandin
 
 ### Judging function-attitudes (“concerned with”):
 
-Extraverted thinking (Te) — authority, ethics (“what’s right” objectively), tradition, education, efficiency (applying the least effort possible), opinions and beliefs. Cold.
+Extraverted thinking (Te) — authority, ethics (“what’s right” objectively), tradition, education, efficiency (applying the least effort possible, preserving resources), opinions and beliefs. Cold.
 
 Introverted thinking (Ti) — clarity (having a coherent understanding), morals (“what’s right” subjectively). Rough.
 
