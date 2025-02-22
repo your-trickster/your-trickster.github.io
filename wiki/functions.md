@@ -1,4 +1,4 @@
-# Functions
+### Functions
 
 Sensation — concrete logical reasoning. Sense of aesthetics. Control. Limits.
 
@@ -8,7 +8,7 @@ Thinking — rule-based value judgment.
 
 Feeling — harmony-concerned value judgment.
 
-# Function-attitudes
+### Function-attitudes
 
 Perceiving function-attitudes:
 
@@ -30,16 +30,16 @@ Extraverted feeling (Fe) — external harmony (including, but not limited to, gr
 
 Introverted feeling (Fi) — internal harmony (mental and physical comfort — “what brings me serenity”), natural boundary-setting.
 
-# Dichotomies
+### Dichotomies
 
 Judgment (rational) vs perception (irrational):
 
-	•	judgment — the process of applying a value to information. Judging function-attitudes have nothing to do with “understanding” things, they’re merely a filter. Thinking and feeling.
-	•	perception — intake and production of information. Sensation and intuition.
+- judgment — the process of applying a value to information. Judging function-attitudes have nothing to do with “understanding” things, they’re merely a filter. Thinking and feeling.
+- perception — intake and production of information. Sensation and intuition.
  
 Introverted vs extraverted (see: extraversion vs introversion).
 
 Revision (static) vs conduction (dynamic):
 
-	•	revision — extraverted perception (Pe) and introverted judgment (Ji). Wary;
-	•	conduction — introverted perception (Pi) and extraverted judgment (Je). Brash.
+- revision — extraverted perception (Pe) and introverted judgment (Ji). Wary;
+- conduction — introverted perception (Pi) and extraverted judgment (Je). Brash.
