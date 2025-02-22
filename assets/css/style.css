@@ -1,17 +1,14 @@
-.git-wiki-tools, .git-wiki-search {
-    display: none;
-}
-
-button.w3-bar-item.w3-button.w3-large.w3-hide-large {
+.git-wiki-tools,
+.git-wiki-search,
+button.w3-bar-item.w3-button.w3-large.w3-hide-large,
+footer p small,
+.element::-webkit-scrollbar,
+#git-wiki-sidebar p {
     display: none;
 }
 
 html {
     overflow-x: hidden;
-}
-
-.element::-webkit-scrollbar {
-    display: none;
 }
 
 .element {
@@ -22,8 +19,4 @@ html {
 .w3-hide-medium.w3-hide-small h1 {
     font-size: 1.07vw;
     text-align: center;
-}
-
-#git-wiki-sidebar p {
-    display: none;
 }
