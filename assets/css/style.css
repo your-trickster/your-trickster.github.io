@@ -7,7 +7,7 @@ button.w3-bar-item.w3-button.w3-large.w3-hide-large {
 }
 
 html {
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .element::-webkit-scrollbar {
