@@ -23,3 +23,7 @@ html {
     font-size: 1.07vw;
     text-align: center;
 }
+
+#git-wiki-sidebar p {
+    display: none;
+}
