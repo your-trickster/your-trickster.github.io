@@ -71,3 +71,8 @@ ST club doesn't like excessive questioning, NiFe and FeNi are, likewise, driven 
 
 - systematic types tend to think more so in terms of structure, frameworks, procedures, rules and laws behind things {Si ego (consisent), NT club (theoretical)};
 - nomadic types tend to think more so in terms of ideals, emotions, personal gains and motives behind things {Se ego and NF club}.
+
+### Progress vs Outcome
+
+- progress types focus more on the getting to the goal itself;
+- outcome types focus more on the products and the end results.
