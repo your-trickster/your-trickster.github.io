@@ -11,6 +11,8 @@ The rest of dichotomies are the asymmetric ones. Some of them were introduced by
 - introverted types have subjective exterior roles. Drawing libido to the subject, they in a normal state more so respond to the object, which is especially notable in communication with extraverts;
 - extraverted types have objective exterior roles. Drawing libido to the object, they oftentimes more so engage witg it, which is especially notable in communication with introverts.
 
+Note: it _is not_ about sociability or energizing.
+
 It is a Jungian dichotomy.
 
 ### Intuition vs Sensation
@@ -64,7 +66,7 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 ### Positivism vs Negativism
 
 - negativists introvert their unknowns and extravert theit knowns. Just like conductors are more brash in extraverting their certainties, negativists are more closed from new information than positivists are, more skeptical (but it's not to be confused with certainty of judgment, liminality of sensation or unwillingness to consider of harmony) {rationale introverts, harmony extraverts};
-- positivists extravert their unknowns and introvert their knowns. By analogy with the dichotomy of revision vs conduction, they are more open to new information (not to be confused with uncertainty of perception, potentiality of intuition or truth-orientation of rationale) {rationale extraverts, harmony introverts}.
+- positivists extravert their unknowns and introvert their knowns. By analogy with the dichotomy of revision vs conduction, they are more open to new information (not to be confused with the colloquial notion of optimism, uncertainty of perception, potentiality of intuition or truth-orientation of rationale) {rationale extraverts, harmony introverts}.
 
 ### Constructivism vs Emotivism
 
