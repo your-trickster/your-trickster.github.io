@@ -14,7 +14,7 @@
 
 **Introverted sensation (Si)** — self-control (inner limits), consistency, bodily senses and understanding of physical comfort, familiarity. Deductive reasoning. Steady.
 
-**Extraverted sensation (Se)** — external control (outer limits), obtainment, tools and resources, actions, application of physical force. Analogical reasoning. Forceful.
+**Extraverted sensation (Se)** — external control (outer limits), obtainment, tools and resources, actions, application of physical force, embracing the wholeness of the object in sensations. Analogical reasoning. Forceful.
 
 **Introverted intuition (Ni)** — vision (motivations and goals, desires, dreams, fantasies), potentials for oneself. Inductive reasoning. Vain.
 
