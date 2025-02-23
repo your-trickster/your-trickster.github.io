@@ -4,7 +4,7 @@ A dichotomy is called symmetric if it's directly derivable from the original fou
 
 The rest of dichotomies are the asymmetric ones. Some of them were introduced by David Keirsey (due to a mistake, perhaps), but other authors, primarily Linda Berens, helped make sense of them.
 
-## Symmetric dichotomies (8/15)
+## Symmetric dichotomies (11/15)
 
 ### Introversion vs Extraversion
 
@@ -34,6 +34,11 @@ It is a Jungian dichotomy.
 
 It is a Jungian dichotomy.
 
+### Revision vs Conduction
+
+- revisers have mental Ji + Pe and vital Je + Pi. Engage fluidly, respond rigidly. More of a random, spontaneuous energetic; higher focus on personal values. Wandering or disengaging eyes, halting or restlessness. Wary;
+- conductors have mental Je + Pi and vital Ji + Pe. Engage rigidly, respond fluidly. More of a channeled, expressive energetic; higher focus on collective values. Fixed gaze or shakes and pushes, stillness or active articulation. Brash.
+
 ### Judicious vs Decisive
 
 - judicious types have ego-syntonic NeSi. They’re characterized by indecisiveness, more careful planning, greater enjoyment of physical comfort regardless of whether they prioritize it (Fi). More connected to nature, often conflict-avoided, more collaborative;
@@ -41,8 +46,8 @@ It is a Jungian dichotomy.
 
 ### Social (moral) vs Societal (ethical)
 
-- social types have ego-syntonic TiFe. They’re more focused on the social and morality;
-- societal types have ego-syntonic TeFi. They’re more focused on the societal and ethicality.
+- social types have ego-syntonic TiFe. They’re more focused on the social ("merry") and morality;
+- societal types have ego-syntonic TeFi. They’re more focused on the societal ("serious") and ethicality.
 
 ### Rationale (democratic) vs Harmony (aristocratic)
 
@@ -55,6 +60,16 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 
 - evolutionary types are certain about their knowns and uncertain about their unknowns, so their progress ends up flowing naturally and directly, they themselves being emerged in the process {passion and happiness ponenda};
 - involutionary types are certain about their unknowns and uncertain about their knowns, so their progress has a warped, inverse direction, which may result in things like omitting details or jumping between hypotheses {legacy and emotion ponenda}.
+
+### Positivism vs Negativism
+
+- negativists introvert their unknowns and extravert theit knowns. Just like conductors are more brash in extraverting their certainties, negativists are more closed from new information than positivists are, more skeptical (but it's not to be confused with certainty of judgment, liminality of sensation or unwillingness to consider of harmony) {rationale introverts, harmony extraverts};
+- positivists extravert their unknowns and introvert their knowns. By analogy with the dichotomy of revision vs conduction, they are more open to new information (not to be confused with uncertainty of perception, potentiality of intuition or truth-orientation of rationale) {rationale extraverts, harmony introverts}.
+
+### Constructivism vs Emotivism
+
+- constructivists have optimistic feeling and pessimistic thinking. Thus, the sphere of feelings is imbalanced for them, and their thinking they're not as confident in, ending up being more neurotic;
+- emotivists have optimistic thinking and pessimistic feeling. Feelings are not overindulged in, this sphere is more flexible for them, while thinking is quite immovable.
 
 ## Asymmetric dichotomies
 
