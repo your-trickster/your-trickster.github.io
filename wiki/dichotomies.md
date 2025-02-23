@@ -77,7 +77,7 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 
 ### Informative (masculine) vs Directive (feminine)
 
-- informative types are more prone to sharing information, insinuating and disclosing various kinds of details {Ne ego and SF club};
+- informative types are more prone to sharing information, insinuating and disclosing various kinds of details {Fi ego and alpha quadra};
 - directive types are more prone to being dominant and commanding and ordering people around {Ni ego and ST club}.
 
 6/8 informative types are rationale-oriented, 6/8 directive types are harmony-oriented.
