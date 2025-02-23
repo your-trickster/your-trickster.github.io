@@ -7,3 +7,4 @@
 - [Type dichotomies](https://your-trickster.github.io/dichotomies)
 - [Type tetrachotomies](https://your-trickster.github.io/tetrachotomies)
 - [Intertype relations](https://your-trickster.github.io/intertype_relations)
+- [Type codes](https://your-trickster.github.io/type_codes)
