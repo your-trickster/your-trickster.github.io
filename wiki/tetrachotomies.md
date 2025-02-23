@@ -69,5 +69,5 @@ Subdivisions:
 
 - **dominants** (directing, extraverted, outcome) — lead people to getting to the goal as soon as possible with direct orders, supervize others, mobilize resources {TeSi, TeNi, FeNi, SeTi};
 - **creatives** (informing, extraverted, progress) — share insights, explore the options, brainstorm, discover new ways of seeing things, get others involved {NeTi, NeFi, SeFi, FeSi};
-- **tamers** (informing, introverted, outcome) — strive to get the best result, support or direct from behind the scenes, encourage, accomodate, define specifications {TiNe, FiSe, SiFe, FiNe};
+- **tamers** (informing, introverted, outcome) — strive to get the best result, support or navigate from behind the scenes, encourage, accomodate, define specifications {TiNe, FiSe, SiFe, FiNe};
 - **obligators** (directing, introverted, progress) — chart the course of action, plan, outline logistics, monitor and guide others {NiTe, TiSe, SiTe, NiFe}.
