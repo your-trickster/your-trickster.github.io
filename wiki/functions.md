@@ -50,7 +50,7 @@ Introverted vs extraverted (see: [essentials](https://your-trickster.github.io/e
 
 **Axis** — a pair of aspects of different functions that are both judging or perceiving, but differ in extraversion vs introversion and revision vs conduction. Both function-attitudes of an axis are either ego-syntonic or ego-dystonic. They are inseparable and work in tandem.
 
-Judgment and perception are not equivalent. Judgment cannot exist without perception, but perception can exist without judgment (though it would be not too useful). So a judgment axis' values' resolution depends on the perceiving axis it's paired (is ego-syntonic or ego-dystonic together) with.
+Judgment and perception are not equivalent. Judgment cannot exist without perception, but perception can exist without judgment (though it would be not too useful). So a judging axis' values' resolution depends on the perceiving axis it's paired (is ego-syntonic or ego-dystonic together) with.
 
 - NeSi — adaptation. Controlling the internal environment to adapt to the possibilities of the external environment. Conforms to the judgment values;
 - NiSe — change. Controlling the external environment to adapt it to the possibilities of oneself. Rebels against the judgment values.
