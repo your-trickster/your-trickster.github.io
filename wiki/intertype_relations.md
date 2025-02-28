@@ -44,7 +44,7 @@ Corresponds to the dichotomy of [evolution vs involution](https://your-trickster
 - parallel — progress parallelly, which can make communication between them easier {identity, duality, contrary, enigma, supervision, benefit};
 - convergent — the progress of these types ends up coagulating together. Can have difficulties tracing each other’s logical process due to differences in how they lay out information, even if their actual logic is quite correspondent, which can in cases of poor communication serve as a point of conflict. But the difference in approaches can prove productive when their efforts are joint {mirror, activity, quasi-identity, conflict, kindred, semi-duality, mirage, look-alike}.
 
-## Tetrachotomization
+## Tetrachotomies
 
 ### Ponenda-correspondent
 
