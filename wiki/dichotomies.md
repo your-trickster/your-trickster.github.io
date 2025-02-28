@@ -9,7 +9,7 @@ The rest of dichotomies are the asymmetric ones. Some of them were introduced by
 ### Introversion vs Extraversion
 
 - introverted types have subjective exterior roles. Drawing libido to the subject, they in a normal state more so respond to the object, which is especially notable in communication with extraverts;
-- extraverted types have objective exterior roles. Drawing libido to the object, they oftentimes more so engage witg it, which is especially notable in communication with introverts.
+- extraverted types have objective exterior roles. Drawing libido to the object, they oftentimes more so engage with it, which is especially notable in communication with introverts.
 
 Note: it _is not_ about sociability or energizing.
 
