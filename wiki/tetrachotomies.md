@@ -90,3 +90,20 @@ Subdivisions:
 - **creatives** (informing, extraverted, progress) — share insights, explore the options, brainstorm, discover new ways of seeing things, get others involved {NeTi, NeFi, SeFi, FeSi};
 - **tamers** (informing, introverted, outcome) — strive to get the best result, support or navigate from behind the scenes, encourage, accomodate, define specifications {TiNe, FiSe, SiFe, FiNe};
 - **obligators** (directing, introverted, progress) — chart the course of action, plan, outline logistics, monitor and guide others {NiTe, TiSe, SiTe, NiFe}.
+
+### Rhetorical appeals
+
+This tetrachotomy is based on correspondence to the Aristotelian rhetorical appeals.
+
+Dichotomies:
+
+- [systematic vs nomadic](https://your-trickster.github.io/dichotomies#systematic-vs-nomadic);
+- [pragmatic vs affiliative](https://your-trickster.github.io/dichotomies#pragmatic-vs-affiliative);
+- [abstract vs concrete](https://your-trickster.github.io/dichotomies#intuition-vs-sensation).
+
+Subdivisions:
+
+- **logos** (systematic, pragmatic, abstract) — appeal to logic (not necessarily logical), intellect, analysis, the rationale behind things {NT club};
+- **pathos** (nomadic, affiliative, abstract) — appeal to emotions (not to be confused with emotionality), ideals and meanings, harmony {NF club};
+- **ethos** (systematic, affiliative, concrete) — appeal to the already established, mores, rules, needs and logistics {Si ego};
+- **kairos** (nomadic, pragmatic, concrete) — appeal to the need and right to act, the right time, stimulation, desires, performance, resources {Se ego}.
