@@ -29,10 +29,12 @@ It is a Jungian dichotomy.
 
 It is a Jungian dichotomy.
 
-### Judgment (rational) vs Perception (irrational)
+### Judgment vs Perception
 
 - judging type have a judging matrix and a perceiving core. Neurobiologically, they have a little higher activity of the left side of the prefrontal cortex. They are more certain about their conclusions;
 - perceiving types have a perceiving matrix and a judging core. Neurobiologically, they have a little higher activity of the right side of the prefrontal cortex. They are more uncertain about their conclusions.
+
+Also called rational vs irrational.
 
 It is a Jungian dichotomy.
 
@@ -51,7 +53,7 @@ It is a Jungian dichotomy.
 - social types have ego-syntonic TiFe. They’re more focused on the social ("merry") and morality;
 - societal types have ego-syntonic TeFi. They’re more focused on the societal ("serious") and ethicality.
 
-### Rationale (democratic) vs Harmony (aristocratic)
+### Rationale vs Harmony
 
 The reason this dichotomy exists is the inequaility of judgment and perception described on the [axes](https://your-trickster.github.io/functions#axes) page.
 
