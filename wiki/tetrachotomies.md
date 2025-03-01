@@ -28,7 +28,7 @@ The ponenda are a tetrachotomy where the types form each other's main archetypes
 Dichotomies:
 
 - [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-vs-harmony);
-- [judgment vs perception](https://your-trickster.github.io/dichotomies#judgment-vs-irrational);
+- [judgment vs perception](https://your-trickster.github.io/dichotomies#judgment-vs-perception);
 - [evolution vs involution](https://your-trickster.github.io/dichotomies#evolution-vs-involution).
 
 Subsets:
