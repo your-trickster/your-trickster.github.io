@@ -10,7 +10,7 @@ The quadras are a tetrachotomy where the types have the same ego-syntonic functi
 
 Dichotomies:
 
-- [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-democratic-vs-harmony-aristocratic);
+- [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-vs-harmony);
 - [judicious vs decisive](https://your-trickster.github.io/dichotomies#judicious-vs-decisive);
 - [moral vs ethical](https://your-trickster.github.io/dichotomies#social-moral-vs-societal-ethical).
 
@@ -27,8 +27,8 @@ The ponenda are a tetrachotomy where the types form each other's main archetypes
 
 Dichotomies:
 
-- [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-democratic-vs-harmony-aristocratic);
-- [judgment vs perception](https://your-trickster.github.io/dichotomies#judgment-rational-vs-perception-irrational);
+- [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-vs-harmony);
+- [judgment vs perception](https://your-trickster.github.io/dichotomies#judgment-vs-irrational);
 - [evolution vs involution](https://your-trickster.github.io/dichotomies#evolution-vs-involution).
 
 Subsets:
@@ -44,7 +44,7 @@ The clubs are a tetrachotomy where the types have the same active functions, end
 
 Dichotomies:
 
-- [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-democratic-vs-harmony-aristocratic);
+- [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-vs-harmony);
 - [intuition vs sensation](https://your-trickster.github.io/dichotomies#intuition-vs-sensation);
 - [thinking vs feeling](https://your-trickster.github.io/dichotomies#thinking-vs-feeling).
 
@@ -61,7 +61,7 @@ Types have the same mental blocks, so one could say within this group lies the p
 
 Dichotomies:
 
-- [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-democratic-vs-harmony-aristocratic);
+- [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-vs-harmony);
 - [revision vs conduction](https://your-trickster.github.io/dichotomies#revision-vs-conduction);
 - [questimity vs declatimity](https://your-trickster.github.io/dichotomies#questim-vs-declatim).
 
