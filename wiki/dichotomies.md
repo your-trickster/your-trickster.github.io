@@ -1,6 +1,6 @@
 **Dichotomy** — a division of a set into two subsets. In the context of psychological types the word is used to denote balanced dichotomies — ones where both sides are equally sized — specifically.
 
-A dichotomy is called symmetric if it's directly derivable from the original four Jungian dichotomies via recombination. As noted by Grigory Reinin, there are 15 such dichotomies, including the original four.
+A dichotomy is called symmetric if it's directly derivable from the original four Jungian dichotomies via tetrachotomial recombination. As noted by Grigory Reinin, there are 15 such dichotomies, including the original four.
 
 The rest of dichotomies are the asymmetric ones. Some of them were introduced by David Keirsey (due to a mistake, perhaps), but other authors, primarily Linda Berens, helped make sense of them.
 
