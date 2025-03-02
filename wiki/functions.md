@@ -32,14 +32,14 @@
 
 ## Dichotomies
 
-### Judgment (rational) vs Perception (irrational):
+### Judgment (rational) vs Perception (irrational)
 
 - judgment — the process of applying a value to information. Judging function-attitudes have nothing to do with “understanding” things, they’re merely a filter. Thinking and feeling;
 - perception — intake and production of information. Sensation and intuition.
  
 Introverted vs extraverted (see: [essentials](https://your-trickster.github.io/essentials)).
 
-### Revision (static) vs Conduction (dynamic):
+### Revision (static) vs Conduction (dynamic)
 
 - revision — extraverted perception (Pe) and introverted judgment (Ji);
 - conduction — introverted perception (Pi) and extraverted judgment (Je).
@@ -70,6 +70,6 @@ Judgment and perception are not equivalent. Judgment cannot exist without percep
 
 - Je — articulation. Objective values, proactive rigidity;
 
-- Pe — exploration. Tuned to what’s going on in the outer world, seeks information outside. Establishes relations between objects (which for, example, may manifest as concrete analogies for Se and metaphors for Ne);
+- Pe — exploration. Proactive fluidity. Tuned to what’s going on in the outer world, seeks information outside. Establishes relations between objects (which for, example, may manifest as concrete analogies for Se and metaphors for Ne);
 
-- Pi — channel. Tuned to what’s going on in the inner world, seeks information within.
+- Pi — channel. Reactive fluidity. Tuned to what’s going on in the inner world, seeks information within.
