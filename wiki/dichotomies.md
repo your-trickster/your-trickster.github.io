@@ -79,7 +79,7 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 
 ## Asymmetric dichotomies
 
-### Informative (masculine) vs Directive (feminine)
+### Informative vs Directive
 
 - informative types are more prone to sharing information, insinuating and disclosing various kinds of details {Fi ego and alpha quadra};
 - directive types are more prone to being dominant and commanding and ordering people around {Ni ego and ST club}.
