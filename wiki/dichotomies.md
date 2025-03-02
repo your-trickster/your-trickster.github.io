@@ -97,3 +97,8 @@ ST club doesn't like excessive questioning, NiFe and FeNi are, likewise, driven 
 
 - progress types focus more on the getting to the goal itself {[creatives, obligators](https://your-trickster.github.io/tetrachotomies#interaction-styles)};
 - outcome types focus more on the products and the end results {[dominants, tamers](https://your-trickster.github.io/tetrachotomies#interaction-styles)}.
+
+### Pragmatic vs Idealistic
+
+- pragmatic — preferring straightforwardness in communication, independence and individual initiative, caring about effectiveness of methods {NT club, Se ego};
+- idealistic — preferring interdependence and affiliation, checking in with norms and ideals, people-focused {NF club, Si ego}.
