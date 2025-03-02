@@ -80,7 +80,7 @@ Types in their normal moods have a similar way of interacting with others.
 
 Dichotomies:
 
-- [informativeness vs directiveness](https://your-trickster.github.io/dichotomies#informative-masculine-vs-directive-feminine);
+- [informativeness vs directiveness](https://your-trickster.github.io/dichotomies#informative-vs-directive);
 - [introversion vs extraversion](https://your-trickster.github.io/dichotomies#introversion-vs-extraversion);
 - [progress vs outcome](https://your-trickster.github.io/dichotomies#progress-vs-outcome).
 
