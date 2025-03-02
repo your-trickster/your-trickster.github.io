@@ -25,14 +25,14 @@ Naming (in terms of how the other party’s ego block maps onto your own roles) 
 
 ### Consonant vs Dissonant
 
-Corresponds to the dichotomy of [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-democratic-vs-harmony-aristocratic) for types.
+Corresponds to the dichotomy of [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-vs-harmony) for types.
 
 - consonant — types belong to the same side of rationale vs harmony {identity, duality, contrary, enigma, activity, mirror, quasi-identity, conflict};
 - dissonant — types on different sides of rationale vs harmony will inevitably end up viewing each other as “evil” in certain situations due to incompatibility of their perspectives on life. For example, the values of alphas and betas are directly conflicting with each other, and so are the values of gammas and deltas {semi-duality, look-alike, kindred, mirage, supervision, benefit}.
 
 ### Stagnant vs Brisk
 
-Corresponds to the dichotomy of [perception vs judgment](https://your-trickster.github.io/dichotomies#judgment-rational-vs-perception-irrational) for types.
+Corresponds to the dichotomy of [perception vs judgment](https://your-trickster.github.io/dichotomies#judgment-vs-perception) for types.
 
 - brisk — a difference of perspectives that often carries an invigorating, but also sharp quality, which may serve as a point of conflict {mirror, activity, quasi-identity, conflict, supervision, benefit};
 - stagnant — lack this difference in perspectives, which often causes an effect of stagnation {identity, duality, contrary, enigma, semi-duality, look-alike, kindred, mirage}.
