@@ -98,12 +98,12 @@ This tetrachotomy is based on correspondence to the Aristotelian rhetorical appe
 Dichotomies:
 
 - [systematic vs nomadic](https://your-trickster.github.io/dichotomies#systematic-vs-nomadic);
-- [pragmatic vs affiliative](https://your-trickster.github.io/dichotomies#pragmatic-vs-affiliative);
+- [pragmatic vs idealistic](https://your-trickster.github.io/dichotomies#pragmatic-vs-idealistic);
 - [abstract vs concrete](https://your-trickster.github.io/dichotomies#intuition-vs-sensation).
 
 Subdivisions:
 
 - **logos** (systematic, pragmatic, abstract) — appeal to logic (not necessarily logical), intellect, analysis, the rationale behind things {NT club};
-- **pathos** (nomadic, affiliative, abstract) — appeal to emotions (not to be confused with emotionality), ideals and meanings, harmony {NF club};
-- **ethos** (systematic, affiliative, concrete) — appeal to the already established, mores, rules, needs and logistics {Si ego};
+- **pathos** (nomadic, idealistic, abstract) — appeal to emotions (not to be confused with emotionality), ideals and meanings, harmony {NF club};
+- **ethos** (systematic, idealistic, concrete) — appeal to the already established, mores, rules, needs and logistics {Si ego};
 - **kairos** (nomadic, pragmatic, concrete) — appeal to the need and right to act, the right time, stimulation, desires, performance, resources {Se ego}.
