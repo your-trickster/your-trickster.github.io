@@ -20,39 +20,39 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 
 ## Positional dichotomies
 
-### Ego-syntonic vs ego-dystonic:
+### Ego-syntonic vs Ego-dystonic
 
 - ego-syntonic — complimentary to the Ego’s values (“I like”, “I value”); hero, parent, child, soul;
 - ego-dystonic — adversary to the Ego’s values (“I dislike”, “I devalue”); nemesis, senex, trickster, demon.
 
-### Matrix (spine, accepting) vs core (hands, producing):
+### Matrix (spine, accepting) vs Core (hands, producing)
 
 - matrix — taken seriously; hero and soul (as well as nemesis and demon);
 - core — excuse for the matrix; parent and child (as well as senex and trickster).
 
-### Active vs passive:
+### Active vs Passive
 
 - active — paid attention to as an area of activity; hero/nemesis and parent/senex;
 - passive — not paid attention to as an area of activity; soul/demon, child/trickster.
 
-### Optimistic (inert) vs pessimistic (contact):
+### Optimistic (inert) vs Pessimistic (contact)
 
 - optimistic — hero/nemesis and child/soul orbits. Unbalanced excitation-inhibition. Careless use;
 - pessimistic — parent/senex and soul/demon. Balanced excitation-inhibition. Careful use.
 
-### Exterior vs interior:
+### Exterior vs Interior
 
 - exterior — in line with the hero’s attitude; demonstrated to the outer world; hero, child, senex, demon;
 - interior — not in line with the hero’s attitude; hidden from the outer world; parent, soul, nemesis, trickster.
 
-### Mental vs vital:
+### Mental vs Vital
 
 - mental — concurring for consciousness (“I want to be like”); hero, parent, demon, trickster;
 - vital — subdued by the mental (“I have no desire to be like”); nemesis, senex, soul, child.
 
 ## Positional tetrachotomies
 
-### The blocks:
+### Blocks
 
 - ego block — ego-syntonic, active, mental — hero-parent;
 - superid block — ego-syntonic, passive, vital — soul-child;
