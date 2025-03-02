@@ -1,7 +1,5 @@
 **Tetrachotomy** — division of a set into four subsets. A tetrachotomy can be expressed as a combination of three dichotomies, each of which can be derived by recombination of the other two.
 
-A tetrachotomy is called symmetric when the same set of [intertype relations](https://your-trickster.github.io/intertype_relations) is preserved across its subdivisions.
-
 ## Symmetric tetrachotomies
 
 ### Quadras
