@@ -54,10 +54,10 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 
 ### Blocks
 
-- ego block — ego-syntonic, active, mental — hero-parent;
-- superid block — ego-syntonic, passive, vital — soul-child;
-- id block — ego-dystonic, active, vital — nemesis-senex;
-- superego block — ego-dystonic, passive, mental — demon-trickster.
+- **ego** block (ego-syntonic, active, mental) — hero-parent;
+- **superid** block (ego-syntonic, passive, vital) — soul-child;
+- **id** block (ego-dystonic, active, vital) nemesis-senex;
+- **superego** block (ego-dystonic, passive, mental) — demon-trickster.
 
 ## Four main archetypes
 
