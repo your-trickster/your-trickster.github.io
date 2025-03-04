@@ -20,8 +20,6 @@ It is a Jungian dichotomy.
 - intuitive types have active intuition. Because of that they focus more on potentials rather than limits;
 - sensing types have active sensation. Because of that they focus more on limits rather than potentials.
 
-Intuitive types are sometimes called abstract, while sensing types – concrete.
-
 It is a Jungian dichotomy.
 
 ### Thinking vs Feeling
