@@ -1,5 +1,5 @@
 There is quite a lot of ways to encode a psychological type already established.
-Here's a table for translation between some of them and the types themselves (referred to by their [ego block](https://your-trickster.github.io/structure#the-blocks)) to eliminate confusion:
+Here's a table for translation between some of them and the types themselves (referred to by their [ego block](https://your-trickster.github.io/structure#blocks)) to eliminate confusion:
 
 | Type | Jungian dichotomies | Myers' codes | Augusta's codes | Filatova's codes | Gulenko's codes | CPT codes |
 |------|---------------------|--------------|-----------------|------------------|-----------------|-----------|
