@@ -66,7 +66,7 @@ Judgment and perception are not equivalent. Judgment cannot exist without percep
 
 **Pole** — a pair of function-attitudes of the same energetic (one side of judgment vs perception, introversion vs extraversion and revision vs conduction).
 
-- Ji — compass. Subjective values, reactively rigidity;
+- Ji — compass. Subjective values, reactive rigidity;
 
 - Je — articulation. Objective values, proactive rigidity;
 
