@@ -65,6 +65,8 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 - questims are wary about their unknowns and brash about their knows (from a survival point of view this allows for discovery of new ecological niches and resources). They are more inclined towards debates, “questioning” the opponent or even themselves. Negative emotions and conflict easily arising in interactions with others, more easily irritated. May tend to have higher artistic capabilities. In a way, questimity is “elitarian” — Qi is personal elitarism, while Qe is societal elitarism {rationale + revision, harmony + conduction};
 - declatims are brash about their unknowns and wary about their knowns. The theme of this is normalization. May tend to be less irritable, more optimistic {rationale + conduction, harmony + revision}.
 
+Note: this description is largely derived from statistics.
+
 ### Evolution vs Involution
 
 - evolutionary types are certain about their knowns and uncertain about their unknowns, so their progress ends up flowing naturally and directly, they themselves being emerged in the process {passion and happiness ponenda};
