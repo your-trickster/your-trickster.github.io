@@ -25,7 +25,7 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 - ego-syntonic — complimentary to the Ego’s values (“I like”, “I value”); hero, parent, child, soul;
 - ego-dystonic — adversary to the Ego’s values (“I dislike”, “I devalue”); nemesis, senex, trickster, demon.
 
-### Matrix (spine, accepting) vs Core (hands, producing)
+### Matrix vs Core
 
 - matrix — taken seriously; hero and soul (as well as nemesis and demon);
 - core — excuse for the matrix; parent and child (as well as senex and trickster).
@@ -35,10 +35,10 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 - active — paid attention to as an area of activity; hero/nemesis and parent/senex;
 - passive — not paid attention to as an area of activity; soul/demon, child/trickster.
 
-### Optimistic (inert) vs Pessimistic (contact)
+### Optimistic vs Pessimistic
 
-- optimistic — hero/nemesis and child/soul orbits. Unbalanced excitation-inhibition. Careless use;
-- pessimistic — parent/senex and soul/demon. Balanced excitation-inhibition. Careful use.
+- optimistic — hero/nemesis and child/soul orbits. Unbalanced excitation-inhibition. Careless use, inflexible;
+- pessimistic — parent/senex and soul/demon. Balanced excitation-inhibition. Careful use, more flexible.
 
 ### Exterior vs Interior
 
@@ -53,6 +53,8 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 ## Positional tetrachotomies
 
 ### Blocks
+
+Corresponds to energetic pairs (Ji + Pe or Je + Pi) of function-attitudes
 
 - **ego** block (ego-syntonic, active, mental) — hero-parent;
 - **superid** block (ego-syntonic, passive, vital) — soul-child;
