@@ -105,5 +105,5 @@ Subdivisions:
 
 - **logos** (systematic, pragmatic, abstract) — appeal to logic (not necessarily logical), intellect, analysis, the rationale behind things {NT club};
 - **pathos** (nomadic, idealistic, abstract) — appeal to emotions (not to be confused with emotionality), ideals and meanings, harmony {NF club};
-- **ethos** (systematic, idealistic, concrete) — appeal to the already established, mores, rules, needs and logistics {Si ego};
+- **ethos** (systematic, idealistic, concrete) — appeal to a need to upkeep certain objective values, the already established, rules, needs and logistics {Si ego};
 - **kairos** (nomadic, pragmatic, concrete) — appeal to the need and right to act, the right time, stimulation, desires, performance, resources {Se ego}.
