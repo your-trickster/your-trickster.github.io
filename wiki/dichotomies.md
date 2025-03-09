@@ -4,7 +4,7 @@ A dichotomy is called symmetric if it's directly derivable from the original fou
 
 The rest of dichotomies are the asymmetric ones. Some of them were introduced by David Keirsey (due to a mistake, perhaps), but other authors, primarily Linda Berens, helped make sense of them.
 
-## Symmetric dichotomies (11/15)
+## Symmetric dichotomies (12/15)
 
 ### Introversion vs Extraversion
 
@@ -59,6 +59,11 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 
 - rationale-oriented types have NeSi paired with TiFe and NiSe paired with TeFi. From the Ne + Ji perspective, rationale types refine their clarity (Ne + Ti), in which they strive to be consistent (Si + Ti), having to acknowledge reality. Rationale types are more so progressive, as they do not refine traditions (Te). Rationale types pursue equity (Ne + Fe) and oppose authority (Te + Se). Rationale types are more so empathetic (Ne understands people, Fe focuses on others' feelings). They focus more on their unknowns than their knowns.
 - harmony-oriented types have NeSi paired with TeFi and NiSe paired with TiFe. From the Ne + Ji perspective, harmony types refine their comfort (Ne + Fi) instead of clarity (that is not to say they can’t possibly strive to know something). Harmony types are more so conservative, as they upkeep traditions (Te + Si). They don’t oppose authority as a concept (Te + Si), either complying or seeking to obtain it. Harmony types are more so sympathetic (Ne understands people, Fi focuses on their own feelings). They focus more on their knowns than their unknowns.
+
+### Questim vs Declatim
+
+- questims are wary about their unknowns and brash about their knows (from a survival point of view this allows for discovery of new ecological niches and resources). They are more inclined towards debates, “questioning” the opponent or even themselves. Negative emotions and conflict easily arising in interactions with others, more easily irritated. May tend to have higher artistic capabilities. In a way, questimity is “elitarian” — Qi is personal elitarism, while Qe is societal elitarism {rationale + revision, harmony + conduction};
+- declatims are brash about their unknowns and wary about their knowns. The theme of this is normalization. May tend to be less irritable, more optimistic {rationale + conduction, harmony + revision}.
 
 ### Evolution vs Involution
 
