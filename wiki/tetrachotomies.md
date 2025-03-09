@@ -93,7 +93,7 @@ Subdivisions:
 
 This tetrachotomy is based on correspondence to the Aristotelian rhetorical appeals.
 
-The asymmetry of this tetrachotomy stems from the differences between intuitive and sensing types – intuitives appeal to the abstraction corresponding to their side of rationale vs harmony, while sensors appeal to their concrete perceptions, as well as the need to upkeep certain objective values for Si ego and their own subjective values for Se ego.
+The asymmetry of this tetrachotomy stems from the differences between intuitive and sensing types – intuitives appeal to the abstraction corresponding to their side of rationale vs harmony, while sensors appeal to their concrete perceptions (as well as adjoint Je for Si).
 
 Dichotomies:
 
