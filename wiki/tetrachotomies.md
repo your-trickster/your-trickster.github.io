@@ -31,10 +31,10 @@ Dichotomies:
 
 Subsets:
 
-- **legacy** (rationale, judgment, involution) — certain about their unknowns. Driven by a need to leave a tangible legacy, are often willing to sacrifice themselves for results {TeNi, FiSe, TiNe, FeSi};
-- **passion** (rationale, perception, evolution) — uncertain about their unknowns. Driven by their passions and interests, pursuit of where it is and what is better {NeTi, SiFe, NiTe, SeFi};
-- **emotion** (harmony, perception, involution) — uncertain about their knowns. Do not suppress emotions and desires, use any means necessary to make life easier {SiTe, NeFi, SeTi, NiFe};
-- **happiness** (harmony, judgment, evolution) — certain about their knowns. Leave things as they are, do not consider too much excessive, live blindly, but happily {TeSi, FiNe, TiSe, FeNi}.
+- **legacy** (rationale, judgment, involution) — driven by a need to leave a tangible legacy, are often willing to sacrifice themselves for results {TeNi, FiSe, TiNe, FeSi};
+- **passion** (rationale, perception, evolution) — driven by their passions and interests, pursuit of where it is and what is better {NeTi, SiFe, NiTe, SeFi};
+- **emotion** (harmony, perception, involution) — do not suppress emotions and desires, use any means necessary to make life easier {SiTe, NeFi, SeTi, NiFe};
+- **happiness** (harmony, judgment, evolution) — leave things as they are, do not consider too much excessive, live blindly, but happily {TeSi, FiNe, TiSe, FeNi}.
 
 ### Clubs
 
