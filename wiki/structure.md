@@ -63,7 +63,7 @@ Corresponds to the four functions.
 
 ### Blocks
 
-Corresponds to energetic pairs (Ji + Pe or Je + Pi) of function-attitudes
+Corresponds to energetic pairs (Ji + Pe or Je + Pi) of function-attitudes.
 
 - **ego** block (ego-syntonic, active, mental) — hero-parent;
 - **superid** block (ego-syntonic, passive, vital) — soul-child;
