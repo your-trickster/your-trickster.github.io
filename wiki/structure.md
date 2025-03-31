@@ -52,6 +52,15 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 
 ## Positional tetrachotomies
 
+### Orbits
+
+Corresponds to the four functions.
+
+- **Dominant** (matrix, active, optimistic) — hero/nemesis — the function pertaining to this orbit is the flagship of the psyche, its most weighty area;
+- **Manipulative** (core, active, pessimistic) — parent/senex — this function is not particularly confident, but flexible, paid attention to as an area of activity and not just the most principled. It is used as the biggest excuse for the dominant function, characterized by a certain “manipulativeness” in terms of its aspects;
+- **Problematic** (core, passive, optimistic) — child/trickster — the child in its hyperfixation (which can prove quite draining to the individual) further reinforces the illusion of the trickster’s capability. The function itself is quite inflexible, but not subject to particular standards and normally not paid too much attention to;
+- **Inferior** (matrix, passive, pessimistic) — soul/demon — the function pertaining to this orbit is partially neglected by the dominant function’s overconfidence, lacking confidence by itself and partially ignored. Nevertheless, certain primitive standards are still assigned to it, and their fulfillment can be pleasing or interesting.
+
 ### Blocks
 
 Corresponds to energetic pairs (Ji + Pe or Je + Pi) of function-attitudes
