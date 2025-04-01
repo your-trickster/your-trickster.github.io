@@ -4,7 +4,7 @@ A dichotomy is called symmetric if it's directly derivable from the original fou
 
 The rest of dichotomies are the asymmetric ones. Some of them were introduced by David Keirsey (due to a mistake, perhaps), but other authors, primarily Linda Berens, helped make sense of them.
 
-## Symmetric dichotomies (12/15)
+## Symmetric dichotomies (13/15)
 
 ### Introversion vs Extraversion
 
@@ -81,6 +81,11 @@ Note: this description is largely derived from statistics.
 
 - constructivists have optimistic feeling and pessimistic thinking. Thus, the sphere of feelings is imbalanced for them, and their thinking they're not as confident in, ending up being more neurotic;
 - emotivists have optimistic thinking and pessimistic feeling. Feelings are not overindulged in, this sphere is more flexible for them, while thinking is quite immovable.
+
+### Accords vs Discords
+
+- accord types have optimistic intuition and pessimistic sensation (optimistic about potentials, flexible about limits). Trust their intuition, but don't think they understand structure enough to go off their own thinking;
+- discord types have optimistic sensation and pessimistic intuition (inflexible about limits, pessimistic about potentials). Don't trust their intuition, but think they understand structures enouhj to go off their own thinking, which may tend to be black-and-white.
 
 ## Asymmetric dichotomies
 
