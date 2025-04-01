@@ -85,7 +85,7 @@ Note: this description is largely derived from statistics.
 ### Accords vs Discords
 
 - accord types have optimistic intuition and pessimistic sensation (optimistic about potentials, flexible about limits). Trust their intuition, but don't think they understand structure enough to go off their own thinking;
-- discord types have optimistic sensation and pessimistic intuition (inflexible about limits, pessimistic about potentials). Don't trust their intuition, but think they understand structures enouhj to go off their own thinking, which may tend to be black-and-white.
+- discord types have optimistic sensation and pessimistic intuition (inflexible about limits, pessimistic about potentials). Don't trust their intuition, but think they understand structures enough to go off their own thinking, which may tend to be black-and-white.
 
 ## Asymmetric dichotomies
 
