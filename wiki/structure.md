@@ -27,7 +27,7 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 
 ### Matrix vs Core
 
-- matrix — taken seriously; hero and soul (as well as nemesis and demon);
+- matrix — taken seriously, forms the basis of worldview; hero and soul (as well as nemesis and demon);
 - core — excuse for the matrix; parent and child (as well as senex and trickster).
 
 ### Active vs Passive
