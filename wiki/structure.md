@@ -37,7 +37,7 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 
 ### Optimistic vs Pessimistic
 
-- optimistic — hero/nemesis and child/soul orbits. Unbalanced excitation-inhibition. Careless use, confident, inflexible;
+- optimistic — hero/nemesis and child/trickster orbits. Unbalanced excitation-inhibition. Careless use, confident, inflexible;
 - pessimistic — parent/senex and soul/demon. Balanced excitation-inhibition. Careful use, unconfident, more flexible.
 
 ### Exterior vs Interior
