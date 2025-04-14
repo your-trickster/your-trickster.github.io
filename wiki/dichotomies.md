@@ -40,8 +40,8 @@ It is a Jungian dichotomy.
 
 ### Revision vs Conduction
 
-- revisers have mental Ji + Pe and vital Je + Pi. Engage fluidly, respond rigidly. More of a random, spontaneuous energetic; higher focus on personal values. Wandering or disengaging eyes, halting or restlessness. Wary;
-- conductors have mental Je + Pi and vital Ji + Pe. Engage rigidly, respond fluidly. More of a channeled, expressive energetic; higher focus on collective values. Fixed gaze or shakes and pushes, stillness or active articulation. Brash.
+- revisers have mental Ji + Pe and vital Je + Pi. Engage fluidly, respond rigidly. More of a random, spontaneuous energetic. Wandering or disengaging eyes, halting or restlessness. Wary;
+- conductors have mental Je + Pi and vital Ji + Pe. Engage rigidly, respond fluidly. More of a channeled, expressive energetic. Fixed gaze or shakes and pushes, stillness or active articulation. Brash.
 
 ### Judicious vs Decisive
 
