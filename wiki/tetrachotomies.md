@@ -70,6 +70,8 @@ Subdivisions:
 - **Qe** (harmony, conduction, questimity) – place the most value on belonging to a group, being a part of society, often aspire to elitarism. Judge others based on their status {TeSi, NiFe, SiTe, FeNi};
 - **Di** (harmony, revision, declatimity) – being the best, reducing people to the role they occupy. Don't like excessive complexity in people. Judge others based on their social role {TiSe, NeFi, SeTi, FiNe}.
 
+Note: the current description of mentality groups is experimental and, thus, considered not fully reliable.
+
 ## Asymmetric tetrachotomies
 
 ### Interaction styles
