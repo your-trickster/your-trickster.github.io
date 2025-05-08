@@ -112,3 +112,5 @@ ST club doesn't like excessive questioning, NiFe and FeNi are, likewise, driven 
 
 - pragmatic — preferring straightforwardness in communication, independence and individual initiative, caring about effectiveness of methods {NT club, Se ego};
 - idealistic — preferring interdependence and affiliation, checking in with norms and ideals, people-focused {NF club, Si ego}.
+
+Most pragmatic types are rationale types (as they refine individual thinking), most idealistic types are harmony types (as they refine group thinking). However, Si + Fe ego types are way too focused on coexistence to be pragmatic, while Se + Ti ego types are way too forceful and limiting towards others to be affilitative.
