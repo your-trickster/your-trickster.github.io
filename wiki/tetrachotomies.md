@@ -10,7 +10,7 @@ Dichotomies:
 
 - [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-vs-harmony);
 - [judicious vs decisive](https://your-trickster.github.io/dichotomies#judicious-vs-decisive);
-- [moral vs ethical](https://your-trickster.github.io/dichotomies#social-vs-societal).
+- [social vs societal](https://your-trickster.github.io/dichotomies#social-vs-societal).
 
 Subsets:
 
