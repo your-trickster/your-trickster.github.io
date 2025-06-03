@@ -42,7 +42,7 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 
 ### Exterior vs Interior
 
-- exterior — in line with the hero’s attitude; demonstrated to the outer world; hero, child, senex, demon;
+- exterior — in line with the hero’s attitude; demonstrated to the outer world, bold; hero, child, senex, demon;
 - interior — not in line with the hero’s attitude; hidden from the outer world; parent, soul, nemesis, trickster.
 
 ### Mental vs Vital
