@@ -1,8 +1,8 @@
 ## Functions
 
-**Sensation** — concrete logical reasoning. Sense of aesthetics. Control. Limits, perceiving objects as discrete.
+**Sensation** — concrete logical reasoning. Sense of aesthetics. Control. Limits, perceiving objects as discrete, what exists.
 
-**Intuition** — logical reasoning with absent particulars. Potentials, perceiving objects as continous, with indefinite borders.
+**Intuition** — logical reasoning with absent particulars. Potentials, perceiving objects as continous, with indefinite borders, what doesn't exist.
 
 **Thinking** — rule-based value judgment.
 
@@ -12,7 +12,7 @@
 
 ### Perceiving function-attitudes:
 
-**Introverted sensation (Si)** — self-control (inner limits), consistency, bodily senses and understanding of physical comfort, familiarity. Deductive reasoning. Steady.
+**Introverted sensation (Si)** — self-control (inner limits), consistency, bodily senses and understanding of physical comfort, familiarity (what exists in relation to the subject). Deductive reasoning. Steady.
 
 **Extraverted sensation (Se)** — external control (outer limits), obtainment, tools and resources, actions, application of physical force, embracing the wholeness of the object in sensations. Analogical reasoning. Forceful.
 
@@ -39,7 +39,7 @@
  
 Introverted vs extraverted (see: [essentials](https://your-trickster.github.io/essentials)).
 
-### Revision (static) vs Conduction (dynamic)
+### Revision vs Conduction
 
 - revision — extraverted perception (Pe) and introverted judgment (Ji);
 - conduction — introverted perception (Pi) and extraverted judgment (Je).
