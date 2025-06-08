@@ -50,6 +50,11 @@ The terminology was introduced by John Beebe (albeit is slightly altered). Refer
 - mental — concurring for consciousness (“I want to be like”); hero, parent, demon, trickster;
 - vital — subdued by the mental (“I have no desire to be like”); nemesis, senex, soul, child.
 
+### Contacting vs Ignoring
+
+- contacting – roles via which information is rapidly transmitted; hero, soul, senex, trickster;
+- ignoring – roles not particularly responsive to communication; nemesis, demon, parent, child.
+
 ## Positional tetrachotomies
 
 ### Orbits
@@ -69,6 +74,24 @@ Corresponds to energetic pairs (Ji + Pe or Je + Pi) of function-attitudes.
 - **superid** block (ego-syntonic, passive, vital) — soul-child;
 - **id** block (ego-dystonic, active, vital) – nemesis-senex;
 - **superego** block (ego-dystonic, passive, mental) — demon-trickster.
+
+### Libidinal levels
+
+Represents how energy is distributed between the roles.
+
+- **identity** (exterior, ego-syntonic, optimistic) — hero, child — the pair with the highest energy consumption, used to maintain a sense of personal identity, showcasing the biggest strength and hiding the biggest weakness. But while the hero comes naturally, the child can be quite draining to focus attention on;
+- **defense** (exterior, ego-dystonic, pessimistic) — demon, senex — unconfident, but demonstrative pair, energy to which is directed for the sake of protecting the enlightenment pair (without such a necessity it would be neglected). The identity of the Persona;
+- **enlightenment** (interior, ego-syntonic, pessimistic) — soul, parent — the key to balancing the psyche and healthy self-realization of the individual. The identity of the Anima;
+- **suppression** (interior, ego-dystonic, optimistic) — nemesis, trickster — the lowest libidinal level. The identity of the Shadow.
+
+### Social roles
+
+Reflects the place of roles in social interaction.
+
+- **mission** (exterior, active, contacting) — hero, senex — socially engaged, demonstrative area, constituting the individual’s conscious agenda, as well as the object and means of critique;
+- **adaptation** (exterior, passive, ignoring) — demon, child — cover for the inertness pair. The mission of the Persona;
+- **privacy** (interior, active, ignoring) — nemesis, parent — an area of private indulgement, serving as a source of hidden wisdom, but concealed from the outer world. The mission of the Shadow;
+- **inertness** (interior, passive, contacting) — soul, trickster — most commonly underdone, but can sometimes be overdone (sometimes, when soul is not satisfied, trickster can be used to do its bidding — for example, when TiNe grants itself the right to apply physical violence for the sake of justice or when FiNe utilizes rape to gain a sense of authority, these types being otherwise opposed to Se). The mission of the Anima.
 
 ## Four main archetypes
 
