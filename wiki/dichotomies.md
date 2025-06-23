@@ -118,6 +118,6 @@ Most pragmatic types are rationale types (as they refine individual thinking), m
 ### Lazy vs Energetic
 
 - lazy types are Ne ego and Pi. Pi tends to have a state of lax inertia, whereas Ne ego is polarly opposed to the active nature of Se. Tend to be less active;
-- energetuc types are Se ego and Je. Je tends to be more assertive of an energetic, and Se ego directs energy towards actions and movement in the outer world. Tend to be more active.
+- energetic types are Se ego and Je. Je tends to be more assertive of an energetic, and Se ego directs energy towards actions and movement in the outer world. Tend to be more active.
 
 6/8 lazy types satisfy qualities such as introversion, irrationality, judiciousness or intuition. 6/8 energetic types satisfy qualities such as extraversion, rationality, decisiveness or sensstion.
