@@ -61,14 +61,14 @@ Dichotomies:
 
 - [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-vs-harmony);
 - [revision vs conduction](https://your-trickster.github.io/dichotomies#revision-vs-conduction);
-- [questimity vs declatimity](https://your-trickster.github.io/dichotomies#questim-vs-declatim).
+- [diversification vs unification](https://your-trickster.github.io/dichotomies#diversifying-vs-unifying).
 
 Subdivisions:
 
-- **Qi** (rationale, revision, questimity) — a certain distancing from the rest of society, support of individual freedoms. Judge people based on their inner world and development, mores and individual features {NeTi, FiSe, TiNe, SeFi};
-- **De** (rationale, conduction, declatimity) – embracing society by either occupying a niche or transforming it, valuing one's own inner continuous and integral identity, needs and desires, individual will. Judge others based on their actions and intentions {NiTe, FeSi, TeNi, SiFe};
-- **Qe** (harmony, conduction, questimity) – place the most value on belonging to a group, being a part of society, often aspire to elitarism. Judge others based on their status {TeSi, NiFe, SiTe, FeNi};
-- **Di** (harmony, revision, declatimity) – being the best, reducing people to the role they occupy. Don't like excessive complexity in people. Judge others based on their social role {TiSe, NeFi, SeTi, FiNe}.
+- **Qi** (rationale, revision, diversification) — a certain distancing from the rest of society, support of individual freedoms. Judge people based on their inner world and development, mores and individual features {NeTi, FiSe, TiNe, SeFi};
+- **De** (rationale, conduction, unification) – embracing society by either occupying a niche or transforming it, valuing one's own inner continuous and integral identity, needs and desires, individual will. Judge others based on their actions and intentions {NiTe, FeSi, TeNi, SiFe};
+- **Qe** (harmony, conduction, diversification) – place the most value on belonging to a group, being a part of society, often aspire to elitarism. Judge others based on their status {TeSi, NiFe, SiTe, FeNi};
+- **Di** (harmony, revision, unification) – being the best, reducing people to the role they occupy. Don't like excessive complexity in people. Judge others based on their social role {TiSe, NeFi, SeTi, FiNe}.
 
 Note: the current description of mentality groups is experimental and, thus, considered not fully reliable.
 
