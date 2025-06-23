@@ -60,17 +60,17 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 - rationale-oriented types have NeSi paired with TiFe and NiSe paired with TeFi. From the Ne + Ji perspective, rationale types refine their clarity and strive to be consistent in it (Ti + NeSi), having to acknowledge reality. Rationale types are more so progressive, as they do not refine traditions (Te). Rationale types pursue equity (Ne + Fe) and oppose authority (Te + Se). Upkeep morals (Ti + Si). Rationale types are more so empathetic (Ne understands people, Fe focuses on others' feelings and Ti strives to be clear). They focus more on their unknowns than their knowns;
 - harmony-oriented types have NeSi paired with TeFi and NiSe paired with TiFe. From the Ne + Ji perspective, harmony types refine their comfort (Ne + Fi) instead of clarity (that is not to say they can’t possibly strive to know something). Harmony types are more so conservative, as they upkeep traditions (Te + Si). They don’t oppose authority as a concept (Te + Si), either complying or seeking to obtain it. Upkeep ethics (Te + Si). Harmony types are more so sympathetic (Ne understands people, Fi focuses on their own feelings). They focus more on their knowns than their unknowns.
 
-### Questim vs Declatim
+### Diversifying vs Unifying
 
-- questims are wary about their unknowns and brash about their knows (from a survival point of view this allows for discovery of new ecological niches and resources). They are more inclined towards debates, “questioning” the opponent or even themselves. Negative emotions and conflict easily arising in interactions with others, more easily irritated. May tend to have higher artistic capabilities. In a way, questimity is “elitarian” — Qi is personal elitarism, while Qe is societal elitarism {rationale + revision, harmony + conduction};
-- declatims are brash about their unknowns and wary about their knowns. The theme of this is normalization. May tend to be less irritable, more optimistic {rationale + conduction, harmony + revision}.
+- diversifying types are wary about their unknowns and brash about their knows (from a survival point of view this allows for discovery of new ecological niches and resources). They are more inclined towards debates, “questioning” the opponent or even themselves. Negative emotions and conflict easily arising in interactions with others, more easily irritated. Elitarian in a way, as they more clearly see the difference between themselves and others. In group interactions tend to expect a distance between people {rationale ↔ revision, harmony ↔ conduction};
+- unifying types are brash about their unknowns and wary about their knowns. The theme of this is normalization. May tend to be less irritable, more optimistic. In group interactions they tend to expect some unity between people {rationale ↔ conduction, harmony ↔ revision}.
 
-Note: this description is largely derived from statistics.
+Note: some details are experimental and derived from statistics.
 
 ### Evolution vs Involution
 
-- evolutionary types are certain about their knowns and uncertain about their unknowns, so their progress ends up flowing naturally and directly, they themselves being emerged in the process {passion and happiness ponenda};
-- involutionary types are certain about their unknowns and uncertain about their knowns, so their progress has a warped, inverse direction, which may result in things like omitting details or jumping between hypotheses {legacy and emotion ponenda}.
+- evolutionary types are certain about their knowns and uncertain about their unknowns, so their progress ends up flowing naturally and directly, they themselves being emerged in the process. May be more focused on "the past" or societal standards, regardless of their actual intention towards them {passion and happiness ponenda};
+- involutionary types are certain about their unknowns and uncertain about their knowns, so their progress has a warped, inverse direction, which may result in things like omitting details or jumping between hypotheses. May be more focused on "the future", regardless of their actual intention towards it {legacy and emotion ponenda}.
 
 ### Positivism vs Negativism
 
