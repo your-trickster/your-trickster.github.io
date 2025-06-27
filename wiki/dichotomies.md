@@ -25,7 +25,7 @@ It is a Jungian dichotomy.
 ### Thinking vs Feeling
 
 - thinking types have active thinking. Because of that they may tend to pose as more serious or logical, but it doesn't mean they are;
-- feeling types have active feeling. Because of that they may tend to give things a living quality, but it doesn't make them actually more emotional or illogival.
+- feeling types have active feeling. Because of that they may tend to give things a living quality, but it doesn't make them actually more emotional or illogical.
 
 It is a Jungian dichotomy.
 
