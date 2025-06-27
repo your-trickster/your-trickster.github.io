@@ -120,4 +120,4 @@ Most pragmatic types are rationale types (as they refine individual thinking), m
 - lazy types have demon, trickster, soul or nemesis Se. Pi tends to have a state of lax inertia, whereas Ne ego is polarly opposed to the active nature of Se. Tend to be less active {Ne ego and Pi};
 - proactive types have hero, parent, child or senex Se. Je tends to be more assertive of an energetic, and Se ego directs energy towards actions and movement in the outer world. Tend to be more proactive, getting things done {Se ego and Je}.
 
-6/8 lazy types satisfy qualities such as introversion, irrationality, judiciousness or intuition. 6/8 energetic types satisfy qualities such as extraversion, rationality, decisiveness or sensstion.
+6/8 lazy types satisfy qualities such as introversion, irrationality, judiciousness or intuition. 6/8 proactive types satisfy qualities such as extraversion, rationality, decisiveness or sensstion.
