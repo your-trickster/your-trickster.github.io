@@ -62,7 +62,7 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 
 ### Diversifying vs Unifying
 
-- diversifying types are wary about their unknowns and brash about their knows (from a survival point of view this allows for discovery of new ecological niches and resources). They are more inclined towards debates, “questioning” the opponent or even themselves. Negative emotions and conflict easily arising in interactions with others, more easily irritated. Elitarian in a way, as they more clearly see the difference between themselves and others. In group interactions tend to expect a distance between people {rationale ↔ revision, harmony ↔ conduction};
+- diversifying types are wary about their unknowns and brash about their knows. They are more inclined towards debates, “questioning” the opponent or even themselves. Negative emotions and conflict easily arising in interactions with others, more easily irritated. Elitarian in a way, as they more clearly see the difference between themselves and others. In group interactions tend to expect a distance between people {rationale ↔ revision, harmony ↔ conduction};
 - unifying types are brash about their unknowns and wary about their knowns. The theme of this is normalization. May tend to be less irritable, more optimistic. In group interactions they tend to expect some unity between people {rationale ↔ conduction, harmony ↔ revision}.
 
 Note: some details are experimental and derived from statistics.
