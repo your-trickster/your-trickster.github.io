@@ -1,6 +1,8 @@
 **Tetrachotomy** — division of a set into four subsets. A tetrachotomy can be expressed as a combination of three dichotomies, each of which can be derived by recombination of the other two.
 
-## Symmetric tetrachotomies
+## Jung–Reinin tetrachotomies
+
+Tetrachotomies in the Jung–Reinin system of dichotomial symmetry.
 
 ### Quadras
 
@@ -72,7 +74,7 @@ Subdivisions:
 
 Note: the current description of mentality groups is experimental and, thus, considered not fully reliable.
 
-## Asymmetric tetrachotomies
+## Other tetrachotomies
 
 ### Interaction styles
 
