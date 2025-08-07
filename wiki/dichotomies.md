@@ -33,10 +33,8 @@ It is a Jungian dichotomy.
 
 ### Judgment vs Perception
 
-- judging type have a judging matrix and a perceiving core. Neurobiologically, they have a little higher activity of the left side of the prefrontal cortex. They are more certain about their conclusions. Tend to be more organized due to reacting slowly and, thus, needing to create rigid structure in order to process things more effectively;
-- perceiving types have a perceiving matrix and a judging core. Neurobiologically, they have a little higher activity of the right side of the prefrontal cortex. They are more uncertain about their conclusions. More fluid and adaptable, less organized.
-
-Also called rational vs irrational.
+- judging (rational) type have a judging matrix and a perceiving core. Neurobiologically, they have a little higher activity of the left side of the prefrontal cortex. They are more certain about their conclusions. Tend to be more organized due to reacting slowly and, thus, needing to create rigid structure in order to process things more effectively;
+- perceiving (irrational) types have a perceiving matrix and a judging core. Neurobiologically, they have a little higher activity of the right side of the prefrontal cortex. They are more uncertain about their conclusions. More fluid and adaptable, less organized.
 
 It is a Jungian dichotomy.
 
@@ -64,7 +62,7 @@ The reason this dichotomy exists is the inequaility of judgment and perception d
 
 ### Differentiating vs Unifying
 
-- diversifying types are wary about their unknowns and brash about their knows. They are more inclined towards debates, “questioning” the opponent or even themselves. Negative emotions and conflict easily arising in interactions with others, more easily irritated. Elitarian in a way, as they more clearly see the difference between themselves and others. In group interactions tend to expect a distance between people {rationale ↔ revision, harmony ↔ conduction};
+- differentiating types are wary about their unknowns and brash about their knows. They are more inclined towards debates, “questioning” the opponent or even themselves. Negative emotions and conflict easily arising in interactions with others, more easily irritated. Elitarian in a way, as they more clearly see the difference between themselves and others. In group interactions tend to expect a distance between people {rationale ↔ revision, harmony ↔ conduction};
 - unifying types are brash about their unknowns and wary about their knowns. The theme of this is normalization. May tend to be less irritable, more optimistic. In group interactions they tend to expect some unity between people {rationale ↔ conduction, harmony ↔ revision}.
 
 Note: some details are experimental and derived from statistics.
@@ -115,7 +113,7 @@ Note: the description is hypothetical.
 ### Pragmatic vs Idealistic
 
 - pragmatic — preferring straightforwardness in communication, independence and individual initiative, caring about effectiveness of methods {NT club, Se ego};
-- idealistic — preferring interdependence and affiliation, checking in with norms and ideals, people-focused {NF club, Si ego}.
+- idealistic (affiliative) — preferring interdependence and affiliation, checking in with norms and ideals, people-focused {NF club, Si ego}.
 
 Most pragmatic types are rationale types (as they refine individual thinking), most idealistic types are harmony types (as they refine group thinking). However, Si + Fe ego types are way too focused on coexistence to be pragmatic, while Se + Ti ego types are way too forceful and limiting towards others to be affilitative.
 
