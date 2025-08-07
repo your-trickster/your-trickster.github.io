@@ -1,10 +1,12 @@
 **Dichotomy** — a division of a set into two subsets. In the context of psychological types the word is used to denote balanced dichotomies — ones where both sides are equally sized — specifically.
 
-A dichotomy is called symmetric if it's directly derivable from the original four Jungian dichotomies via tetrachotomial recombination. As noted by Grigory Reinin, there are 15 such dichotomies, including the original four.
-
 The rest of dichotomies are the asymmetric ones. Some of them were introduced by David Keirsey (due to a mistake, perhaps), but other authors, primarily Linda Berens, helped make sense of them.
 
-## Symmetric dichotomies (13/15)
+## Jung–Reinin
+
+These are dichotomies in the Jung–Reinin system of dichotomial symmetry.
+
+(13/15 described)
 
 ### Introversion vs Extraversion
 
@@ -87,7 +89,7 @@ Note: some details are experimental and derived from statistics.
 - accord types have optimistic intuition and pessimistic sensation (optimistic about potentials, flexible about limits). Trust their intuition, but don't think they understand structure enough to go off their own thinking;
 - discord types have optimistic sensation and pessimistic intuition (inflexible about limits, pessimistic about potentials). Don't trust their intuition, but think they understand structures enough to go off their own thinking, which may tend to be black-and-white.
 
-## Asymmetric dichotomies
+## Other dichotomies
 
 ### Informative vs Directive
 
