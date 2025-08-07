@@ -1,7 +1,5 @@
 **Dichotomy** — a division of a set into two subsets. In the context of psychological types the word is used to denote balanced dichotomies — ones where both sides are equally sized — specifically.
 
-The rest of dichotomies are the asymmetric ones. Some of them were introduced by David Keirsey (due to a mistake, perhaps), but other authors, primarily Linda Berens, helped make sense of them.
-
 ## Jung–Reinin
 
 These are dichotomies in the Jung–Reinin system of dichotomial symmetry.
