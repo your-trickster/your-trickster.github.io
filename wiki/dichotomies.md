@@ -105,8 +105,10 @@ ST club doesn't like excessive questioning, NiFe and FeNi are, likewise, driven 
 
 ### Progress vs Outcome
 
-- progress types focus more on the getting to the goal itself {[creatives, obligators](https://your-trickster.github.io/tetrachotomies#interaction-styles)};
-- outcome types focus more on the products and the end results {[dominants, tamers](https://your-trickster.github.io/tetrachotomies#interaction-styles)}.
+- progress types focus more on the getting to the goal itself {[creatives, obligatives](https://your-trickster.github.io/tetrachotomies#interaction-styles)};
+- outcome types focus more on the products and the end results {[dominants, supportives](https://your-trickster.github.io/tetrachotomies#interaction-styles)}.
+
+Note: the description is hypothetical.
 
 ### Pragmatic vs Idealistic
 
