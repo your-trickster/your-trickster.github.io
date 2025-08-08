@@ -63,7 +63,7 @@ Dichotomies:
 
 - [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-vs-harmony);
 - [revision vs conduction](https://your-trickster.github.io/dichotomies#revision-vs-conduction);
-- [diversification vs unification](https://your-trickster.github.io/dichotomies#differentiating-vs-unifying).
+- [differentiation vs unification](https://your-trickster.github.io/dichotomies#differentiating-vs-unifying).
 
 Subdivisions:
 
@@ -83,15 +83,15 @@ Types in their normal moods have a similar way of interacting with others.
 Dichotomies:
 
 - [informativeness vs directiveness](https://your-trickster.github.io/dichotomies#informative-vs-directive);
-- [introversion vs extraversion](https://your-trickster.github.io/dichotomies#introversion-vs-extraversion);
+- [responding vs engaging](https://your-trickster.github.io/dichotomies#introversion-vs-extraversion);
 - [progress vs outcome](https://your-trickster.github.io/dichotomies#progress-vs-outcome).
 
 Subdivisions:
 
-- **dominant** (directing, extraverted, outcome) — lead people to getting to the goal as soon as possible with direct orders, supervize others, mobilize resources {TeSi, TeNi, FeNi, SeTi};
-- **creative** (informing, extraverted, progress) — share insights, explore the options, brainstorm, discover new ways of seeing things, get others involved {NeTi, NeFi, SeFi, FeSi};
-- **supportive** (informing, introverted, outcome) — strive to get the best result, support or navigate from behind the scenes, encourage, accomodate, define specifications {TiNe, FiSe, SiFe, FiNe};
-- **obligative** (directing, introverted, progress) — chart the course of action, plan, outline logistics, monitor and guide others {NiTe, TiSe, SiTe, NiFe}.
+- **dominant** (directing, engaging, outcome) — lead people to getting to the goal as soon as possible with direct orders, supervize others, mobilize resources {TeSi, TeNi, FeNi, SeTi};
+- **creative** (informing, engaging, progress) — share insights, explore the options, brainstorm, discover new ways of seeing things, get others involved {NeTi, NeFi, SeFi, FeSi};
+- **supportive** (informing, responding, outcome) — strive to get the best result, support or navigate from behind the scenes, encourage, accomodate, define specifications {TiNe, FiSe, SiFe, FiNe};
+- **obligative** (directing, responding, progress) — chart the course of action, plan, outline logistics, monitor and guide others {NiTe, TiSe, SiTe, NiFe}.
 
 ### Rhetorical appeals
 
