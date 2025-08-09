@@ -49,7 +49,7 @@ It is a Jungian dichotomy.
 ### Social vs Societal
 
 - social types have ego-syntonic TiFe. Social types reflect the strategy of survival in small chunks, tribes, social settings, like a group of equal people, removed from outside affairs, exploring and caring for each other on their own, or a nomadic gang-like structure, a primitive center of power. In such structures people are closely associated and intertwined;
-- societal types have ego-syntonic TeFi. Societal types reflect the strategy of survival in complex global cultures, like a static and peaceful conformist hierarchy or a network of practical interrelations. In such structures people are removed, somewhat isolated from each other.
+- societal types have ego-syntonic TeFi. Societal types reflect the strategy of survival in complex global cultures, like a static and peaceful conformist hierarchy or a network of practical interrelations. In such structures people are removed, somewhat isolated from each other, boundaries are formed around a person.
 
 ### Rationale vs Harmony
 
