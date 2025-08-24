@@ -28,15 +28,15 @@ The ponenda are a tetrachotomy where the types form each other's main archetypes
 Dichotomies:
 
 - [rationale vs harmony](https://your-trickster.github.io/dichotomies#rationale-vs-harmony);
-- [judgment vs perception](https://your-trickster.github.io/dichotomies#judgment-vs-perception);
+- [rational vs irrational](https://your-trickster.github.io/dichotomies#judgment-vs-perception);
 - [evolution vs involution](https://your-trickster.github.io/dichotomies#evolution-vs-involution).
 
 Subsets:
 
-- **legacy** (rationale, judgment, involution) — driven by a need to leave a tangible legacy, are often willing to sacrifice themselves for results {TeNi, FiSe, TiNe, FeSi};
-- **passion** (rationale, perception, evolution) — driven by their passions and interests, pursuit of where it is and what is better {NeTi, SiFe, NiTe, SeFi};
-- **emotion** (harmony, perception, involution) — do not suppress emotions and desires, use any means necessary to make life easier {SiTe, NeFi, SeTi, NiFe};
-- **happiness** (harmony, judgment, evolution) — leave things as they are, do not consider too much excessive, live blindly, but happily {TeSi, FiNe, TiSe, FeNi}.
+- **legacy** (rationale, rationality, involution) — driven by a need to leave a tangible legacy, are often willing to sacrifice themselves for results {TeNi, FiSe, TiNe, FeSi};
+- **passion** (rationale, irrationality, evolutionary) — driven by their passions and interests, pursuit of where it is and what is better {NeTi, SiFe, NiTe, SeFi};
+- **emotion** (harmony, irrationality, involution) — do not suppress emotions and desires, use any means necessary to make life easier {SiTe, NeFi, SeTi, NiFe};
+- **happiness** (harmony, rationality, evolution) — leave things as they are, do not consider too much excessive, live blindly, but happily {TeSi, FiNe, TiSe, FeNi}.
 
 ### Clubs
 
