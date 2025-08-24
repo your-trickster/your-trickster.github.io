@@ -91,7 +91,7 @@ Reflects the place of roles in social interaction.
 - **mission** (exterior, active, contacting) — hero, senex — socially engaged, demonstrative area, constituting the individual’s conscious agenda, as well as the object and means of critique;
 - **adaptation** (exterior, passive, ignoring) — demon, child — cover for the inertness pair. The mission of the Persona;
 - **privacy** (interior, active, ignoring) — nemesis, parent — an area of private indulgement, serving as a source of hidden wisdom, but concealed from the outer world. The mission of the Shadow;
-- **inertness** (interior, passive, contacting) — soul, trickster — most commonly underdone, but can sometimes be overdone (sometimes, when soul is not satisfied, trickster can be used to do its bidding — for example, when TiNe grants itself the right to apply physical violence for the sake of justice or when FiNe utilizes rape to gain a sense of authority, these types being otherwise opposed to Se). The mission of the Anima.
+- **inertness** (interior, passive, contacting) — soul, trickster — most commonly underdone, but can sometimes be overdone. The mission of the Anima.
 
 ## Four main archetypes
 
